@@ -9,10 +9,10 @@ Version 1.0 of **PhotoTriage**, a little Mac app I built because I got tired of 
 
 **Keyboard-first photo cleanup for macOS.**
 
-![Latest Release](https://img.shields.io/github/v/release/FatBoy721/PhotoTriage?color=6366f1&label=release&style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/FatBoy721/PhotoTriage/total?color=10b981&style=flat-square)
 ![License](https://img.shields.io/github/license/FatBoy721/PhotoTriage?style=flat-square)
 ![macOS](https://img.shields.io/badge/macOS-14%2B-black?style=flat-square&logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-ready-success?style=flat-square&logo=apple)
+
 
 [Download latest release](https://github.com/FatBoy721/PhotoTriage/releases/latest) · [Report a bug](https://github.com/FatBoy721/PhotoTriage/issues)
 
