@@ -3,7 +3,7 @@
 Version 1.0 of **PhotoTriage**, a little Mac app I built because I got tired of deleting files manually one at a time. Right-click, move to trash, confirm, repeat — multiply that by ten thousand photos and you never actually clean anything up.
 <div align="center">
 
-<img src="Assets/icon.png" width="128" alt="PhotoTriage icon" />
+<img src="Image 1.jpeg" width="128" alt="PhotoTriage icon" />
 
 # PhotoTriage
 
