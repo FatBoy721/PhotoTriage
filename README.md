@@ -1,5 +1,5 @@
 # PhotoTriage
-Got bored of deleting photos one by one right-click, trash, confirm, repeat forever. So I made something that turns it into a keyboard game. Arrow keys do everything, nothing actually gets deleted until you confirm at the end.
+
 Version 1.0 of **PhotoTriage**, a little Mac app I built because I got tired of deleting files manually one at a time. Right-click, move to trash, confirm, repeat — multiply that by ten thousand photos and you never actually clean anything up.
 
 So I made this. Four arrow keys, a review queue, one final confirmation. Somewhere between a game and a productivity tool — fast enough to not feel like chores, safe enough that you can't accidentally nuke your library.
